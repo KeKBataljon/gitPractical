@@ -1,0 +1,12 @@
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\bin\Debug\git Practical.exe.config
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\bin\Debug\git Practical.exe
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\bin\Debug\git Practical.pdb
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\obj\Debug\git Practical.csprojResolveAssemblyReference.cache
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\obj\Debug\git_Practical.Form1.resources
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\obj\Debug\git_Practical.Properties.Resources.resources
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\obj\Debug\git Practical.csproj.GenerateResource.Cache
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\obj\Debug\git Practical.exe
+c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical\obj\Debug\git Practical.pdb
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\bin\Debug\git Practical.exe.config
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git Practical.exe
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git Practical.pdb
