@@ -73,6 +73,26 @@ namespace git_Practical.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap stian {
+            get {
+                object obj = ResourceManager.GetObject("stian", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap stianBackground {
+            get {
+                object obj = ResourceManager.GetObject("stianBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap the_witcher_3_wild_hunt_geralt_trophies_wide {
             get {
                 object obj = ResourceManager.GetObject("the_witcher_3_wild_hunt_geralt_trophies-wide", resourceCulture);
