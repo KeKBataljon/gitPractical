@@ -87,6 +87,10 @@
             this.button6.TabIndex = 6;
             this.button6.Text = "Stian Scholtz";
             this.button6.UseVisualStyleBackColor = true;
+<<<<<<< Updated upstream
+=======
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+>>>>>>> Stashed changes
             // 
             // button5
             // 
@@ -107,7 +111,10 @@
             this.button4.TabIndex = 4;
             this.button4.Text = "Kristiaan Pretorius";
             this.button4.UseVisualStyleBackColor = true;
+<<<<<<< Updated upstream
             this.button4.Click += new System.EventHandler(this.button4_Click);
+=======
+>>>>>>> Stashed changes
             // 
             // button3
             // 
@@ -118,7 +125,10 @@
             this.button3.TabIndex = 3;
             this.button3.Text = "Morné du Plooy";
             this.button3.UseVisualStyleBackColor = true;
+<<<<<<< Updated upstream
             this.button3.Click += new System.EventHandler(this.button3_Click);
+=======
+>>>>>>> Stashed changes
             // 
             // button2
             // 
