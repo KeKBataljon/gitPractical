@@ -38,5 +38,12 @@ namespace git_Practical
             Form3 form3 = new Form3();
             form3.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            MDP form = new MDP();
+            form.Show();
+        }
     }
 }
