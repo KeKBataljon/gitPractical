@@ -16,5 +16,11 @@ namespace git_Practical
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            StatCalc stats = new StatCalc();
+            label5.Text = stats.getgMean();
+        }
     }
 }

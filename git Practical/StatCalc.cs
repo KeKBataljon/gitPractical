@@ -15,6 +15,7 @@ namespace git_Practical
         private double mean;
         private double median;
         private double standardDeviation;
+        private double gmean;
 
         public StatCalc()
         {
@@ -29,6 +30,7 @@ namespace git_Practical
             min = calcMin(arrayOfRanNum);
             mean = calcAve(arrayOfRanNum);
             median = calcMedian(arrayOfRanNum);
+            gmean = geoMean(arrayOfRanNum, n);
             standardDeviation = calcStanDev(arrayOfRanNum);
            
         }
@@ -60,6 +62,18 @@ namespace git_Practical
                 }
             }
             return max;
+        }
+        //method that calculates geometric mean
+    private double geoMean(int [] arrayOfNum, int n)
+        {
+            double total = 0.0;
+            double gAve = 0.0;
+            for (int i = 0; i < arrayOfNum.Length; i++)
+            {
+                total *= arrayOfNum[i];
+            }
+            gAve = Math.Pow(total,1/n);
+            return gAve;
         }
 
         //method that calculates Min;
@@ -125,6 +139,10 @@ namespace git_Practical
             return standardDeviation;
         }
         
+        public string getgMean()
+        {
+            return this.gmean.ToString();
+        }
 
         public string getMax()
         {
