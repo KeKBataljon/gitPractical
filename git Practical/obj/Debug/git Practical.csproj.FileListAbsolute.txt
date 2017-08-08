@@ -28,3 +28,15 @@ C:\Users\Kristiaan\Documents\Akademies\Derde jaar\Semester 2\ITRW324\gitPractica
 C:\Users\Kristiaan\Documents\Akademies\Derde jaar\Semester 2\ITRW324\gitPractical\git Practical\obj\Debug\git_Practical.Form3.resources
 C:\Users\Kristiaan\Documents\Akademies\Derde jaar\Semester 2\ITRW324\gitPractical\git Practical\obj\Debug\git_Practical.Properties.Resources.resources
 C:\Users\Kristiaan\Documents\Akademies\Derde jaar\Semester 2\ITRW324\gitPractical\git Practical\obj\Debug\git Practical.csproj.GenerateResource.Cache
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\bin\Debug\git Practical.exe.config
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\bin\Debug\git Practical.exe
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\bin\Debug\git Practical.pdb
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git Practical.csprojResolveAssemblyReference.cache
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git_Practical.Form1.resources
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git_Practical.Form2.resources
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git_Practical.Form3.resources
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git_Practical.Properties.Resources.resources
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git Practical.csproj.GenerateResource.Cache
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git Practical.exe
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git Practical.pdb
+C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git_Practical.MDP.resources
