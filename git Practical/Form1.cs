@@ -26,5 +26,11 @@ namespace git_Practical
         {
             Application.Exit();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 edwinForm = new Form2();
+            edwinForm.Show();
+        }
     }
 }

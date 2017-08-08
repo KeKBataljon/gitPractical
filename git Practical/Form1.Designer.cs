@@ -31,11 +31,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -60,6 +60,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "Edwin Viljoen";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // groupBox1
             // 
@@ -77,35 +78,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Select a member to display their bio";
             // 
-            // button2
+            // button6
             // 
-            this.button2.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.button2.Location = new System.Drawing.Point(159, 28);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(88, 43);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Jusin van der Westhuizen";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.button3.Location = new System.Drawing.Point(285, 28);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(90, 43);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "Morné du Plooy";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.button4.Location = new System.Drawing.Point(32, 84);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(90, 42);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "Kristiaan Pretorius";
-            this.button4.UseVisualStyleBackColor = true;
+            this.button6.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.button6.Location = new System.Drawing.Point(285, 84);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(90, 42);
+            this.button6.TabIndex = 6;
+            this.button6.Text = "Stian Scholtz";
+            this.button6.UseVisualStyleBackColor = true;
             // 
             // button5
             // 
@@ -117,15 +98,35 @@
             this.button5.Text = "Zane Schoonraad";
             this.button5.UseVisualStyleBackColor = true;
             // 
-            // button6
+            // button4
             // 
-            this.button6.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.button6.Location = new System.Drawing.Point(285, 84);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(90, 42);
-            this.button6.TabIndex = 6;
-            this.button6.Text = "Stian Scholtz";
-            this.button6.UseVisualStyleBackColor = true;
+            this.button4.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.button4.Location = new System.Drawing.Point(32, 84);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(90, 42);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "Kristiaan Pretorius";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.button3.Location = new System.Drawing.Point(285, 28);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(90, 43);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "Morné du Plooy";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.button2.Location = new System.Drawing.Point(159, 28);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(88, 43);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "Jusin van der Westhuizen";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // button7
             // 

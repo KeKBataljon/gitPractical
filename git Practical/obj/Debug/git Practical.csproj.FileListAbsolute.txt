@@ -10,3 +10,10 @@ c:\users\edwin\documents\visual studio 2015\Projects\git Practical\git Practical
 C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\bin\Debug\git Practical.exe.config
 C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git Practical.exe
 C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git Practical.pdb
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\bin\Debug\git Practical.exe
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\bin\Debug\git Practical.pdb
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git Practical.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git_Practical.Form1.resources
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git_Practical.Properties.Resources.resources
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git Practical.csproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\Development\GitHub\gitPractical\git Practical\obj\Debug\git_Practical.Form2.resources
