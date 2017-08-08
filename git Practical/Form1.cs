@@ -31,7 +31,6 @@ namespace git_Practical
         {
             Form2 edwinForm = new Form2();
             edwinForm.Show();
-<<<<<<< Updated upstream
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -45,14 +44,6 @@ namespace git_Practical
             this.Hide();
             MDP form = new MDP();
             form.Show();
-=======
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            FormStian stianForm = new FormStian();
-            stianForm.Show();
->>>>>>> Stashed changes
         }
     }
 }
