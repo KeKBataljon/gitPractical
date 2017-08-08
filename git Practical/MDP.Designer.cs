@@ -98,14 +98,15 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(119, 61);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(21, 13);
+            this.label5.Size = new System.Drawing.Size(240, 39);
             this.label5.TabIndex = 6;
-            this.label5.Text = "No";
+            this.label5.Text = "Cars, whiskey and games... in that order\r\nAlways on my way to a new adventure\r\nHa" +
+    "rdworking and never gives up  on a challange!";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(165, 160);
+            this.label6.Location = new System.Drawing.Point(186, 162);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(16, 13);
             this.label6.TabIndex = 7;
@@ -125,6 +126,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(486, 388);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label6);
