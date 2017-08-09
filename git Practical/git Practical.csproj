@@ -47,8 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="CalcMin.cs" />
-    <Compile Include="CalcMax.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,24 +65,6 @@
     <Compile Include="Form3.Designer.cs">
       <DependentUpon>Form3.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormZane.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormZane.Designer.cs">
-      <DependentUpon>FormZane.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormJustin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormJustin.Designer.cs">
-      <DependentUpon>FormJustin.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormStian.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormStian.Designer.cs">
-      <DependentUpon>FormStian.cs</DependentUpon>
-    </Compile>
     <Compile Include="MDP.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,10 +75,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StatCalc.cs" />
-    <Compile Include="StianMedian.cs" />
-    <EmbeddedResource Include="FormZane.resx">
-      <DependentUpon>FormZane.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -107,12 +83,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormJustin.resx">
-      <DependentUpon>FormJustin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormStian.resx">
-      <DependentUpon>FormStian.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MDP.resx">
       <DependentUpon>MDP.cs</DependentUpon>
@@ -145,12 +115,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\arkham_knight-high_resolution-4k-wallpaper-batman_arkham_knight-game-3840x2160.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\stianBackground.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\stian.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
