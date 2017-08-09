@@ -55,3 +55,17 @@ C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\
 C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\obj\Debug\git_Practical.MDP.resources
 C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\obj\Debug\git_Practical.Properties.Resources.resources
 C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\obj\Debug\git Practical.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\gitPractical\git Practical\bin\Debug\git Practical.exe.config
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git Practical.exe
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git Practical.pdb
+C:\Users\Student\Desktop\gitPractical\git Practical\bin\Debug\git Practical.exe
+C:\Users\Student\Desktop\gitPractical\git Practical\bin\Debug\git Practical.pdb
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git Practical.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git_Practical.Form1.resources
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git_Practical.Form2.resources
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git_Practical.Form3.resources
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git_Practical.FormJustin.resources
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git_Practical.FormStian.resources
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git_Practical.MDP.resources
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git_Practical.Properties.Resources.resources
+C:\Users\Student\Desktop\gitPractical\git Practical\obj\Debug\git Practical.csproj.GenerateResource.Cache

@@ -51,5 +51,11 @@ namespace git_Practical
             FormStian form = new FormStian();
             form.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormJustin form = new FormJustin();
+            form.Show();
+        }
     }
 }
