@@ -37,6 +37,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtRandom = new System.Windows.Forms.TextBox();
             this.txtMedian = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -144,12 +145,26 @@
             this.txtMedian.Size = new System.Drawing.Size(100, 20);
             this.txtMedian.TabIndex = 8;
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button1.Location = new System.Drawing.Point(535, 286);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "Go";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // FormStian
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::git_Practical.Properties.Resources.stianBackground;
             this.ClientSize = new System.Drawing.Size(801, 457);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.txtMedian);
             this.Controls.Add(this.txtRandom);
             this.Controls.Add(this.label4);
@@ -178,5 +193,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtRandom;
         private System.Windows.Forms.TextBox txtMedian;
+        private System.Windows.Forms.Button button1;
     }
 }

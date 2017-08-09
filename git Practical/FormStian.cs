@@ -23,6 +23,10 @@ namespace git_Practical
         {
             txtMedian.Clear();
             txtRandom.Clear();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
             if (!String.IsNullOrEmpty(txtAmount.Text))
             {
                 int n = Convert.ToInt32(txtAmount.Text);
@@ -33,6 +37,7 @@ namespace git_Practical
                 {
                     txtRandom.AppendText(Convert.ToString(array[i]) + ", ");
                 }
+                MessageBox.Show(Convert.ToString(classobject.getMedian()));
             }
         }
     }

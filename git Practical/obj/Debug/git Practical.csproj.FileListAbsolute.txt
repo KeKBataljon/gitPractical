@@ -88,3 +88,4 @@ C:\Users\Student\Desktop\Git\gitPractical\git Practical\obj\Debug\git Practical.
 =======
 C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\obj\Debug\git_Practical.FormJustin.resources
 >>>>>>> Stashed changes
+C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\obj\Debug\git_Practical.Form4.resources
