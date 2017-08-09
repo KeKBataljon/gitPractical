@@ -40,3 +40,6 @@ C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git Pr
 C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git Practical.exe
 C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git Practical.pdb
 C:\Users\Morne\Desktop\324\Practical\gitPractical\git Practical\obj\Debug\git_Practical.MDP.resources
+C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\bin\Debug\git Practical.exe.config
+C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\obj\Debug\git Practical.pdb
+C:\Users\Stian\Documents\ITRW324\Git Prakties\Cloned\gitPractical\git Practical\obj\Debug\git Practical.csprojResolveAssemblyReference.cache
