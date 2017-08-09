@@ -124,4 +124,10 @@
   <data name="arkham_knight-high_resolution-4k-wallpaper-batman_arkham_knight-game-3840x2160" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\arkham_knight-high_resolution-4k-wallpaper-batman_arkham_knight-game-3840x2160.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="stianBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stianBackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stian.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
