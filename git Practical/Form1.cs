@@ -45,23 +45,5 @@ namespace git_Practical
             MDP form = new MDP();
             form.Show();
         }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            FormStian form = new FormStian();
-            form.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            FormJustin form = new FormJustin();
-            form.Show();
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            Form4 form = new Form4();
-            form.Show();
-        }
     }
 }
