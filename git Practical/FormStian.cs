@@ -29,15 +29,23 @@ namespace git_Practical
         {
             if (!String.IsNullOrEmpty(txtAmount.Text))
             {
+                Test5_20 test = new Test5_20();
                 int n = Convert.ToInt32(txtAmount.Text);
-                StianMedian classobject = new StianMedian(n);
-                int[] array = classobject.getArray();
-                txtMedian.Text = Convert.ToString(classobject.getMedian());
-                for (int i = 0; i < n; i++)
+                if (test.test(n))
                 {
-                    txtRandom.AppendText(Convert.ToString(array[i]) + ", ");
+                    stat classobject = new stat(n);
+                    int[] array = classobject.getArray();
+                    txtMedian.Text = Convert.ToString(classobject.getMedian());
+                    for (int i = 0; i < n; i++)
+                    {
+                        txtRandom.AppendText(Convert.ToString(array[i]) + ", ");
+                    }
+                    MessageBox.Show(Convert.ToString(classobject.getMedian()));
                 }
-                MessageBox.Show(Convert.ToString(classobject.getMedian()));
+                else
+                {
+                    MessageBox.Show("The integer was not between 5 and 20.");
+                }
             }
         }
     }
